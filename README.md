@@ -48,6 +48,6 @@ public static void main(String[] args) {
 - When a ball reaches the hole, a result message will appear
 
 # DEMO Video Play Game
----->  https://youtu.be/TzE5QaHqkGQ
+---->  https://youtu.be/IY18l29CQ5E
 
 

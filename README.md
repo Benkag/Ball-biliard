@@ -21,7 +21,7 @@ This is a visual simulation designed to help learners understand multithreading 
 - Go to File → New Project → Java Application
 - Name it BilliardSimulation
 
-- Copy all the Java files (Main.java, Map.java, Ball.java, etc.) into the src folder
+- Copy all the Java files (Main.java, Map.java, Ball.java, ...) into the src folder
 
 - Ensure Main.java contains:
 
